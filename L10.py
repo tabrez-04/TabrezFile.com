@@ -5,7 +5,7 @@ dictionary = {
 }
 
 for x , y in dictionary.items():
-    print(str(x) + " is " + str (y))
+    print(str(x) + " 😆 " + str (y))
  
 
 # print(dictionary)
