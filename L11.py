@@ -1,27 +1,8 @@
-# rent, extra = input("Write ur rent and WE = ").split()
+rent, extra = input("Write ur rent and WE = ").split()
 
-# monthlyPM = int(rent) + int(extra)
+monthlyPM = int(rent) + int(extra)
 
-# print (monthlyPM)
-
-first = input("Enter First number = " )
-second = input("Enter second number = ")
-
-result = int(first) + int(second)
-
-print("Resutl of + :" , result)
-
-minus = int(first) - int(second)
-
-print("result of - :" , minus)
-
-multiplication = int(first) * int(second)
-
-print("Result of multiplication:", multiplication)
-
-devide = int(first) / int(second) 
-
-print("Result of devide : ", devide)
+print (monthlyPM)
 
 
 
